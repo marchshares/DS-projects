@@ -42,8 +42,6 @@
  
 ### [Реализация GradientBoosting Regressor](notebooks/ml_algorithms/gradient-boosting-impl.ipynb)
 
-`State: In progress`
-
 Собственная реализация простейшего градиентного бустинга для задач регрессии
   
 **References**:
