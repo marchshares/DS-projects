@@ -51,9 +51,12 @@
 
 <br>
 
+## Решения Leetcode
+Репозиторий с решениями алгоритмических задач: https://github.com/marchshares/leetcode-solutions
+
+<br>
+
  ## Решения разных задач
- Репозторий с решениями алгоритмических задач (leetcode): https://github.com/marchshares/leetcode-solutions
- 
 - [Yandex Fast Track Analytics 2021](notebooks/tasks/Yandex%20Fast%20Track%20Analytics%202021.ipynb)
 - `State: In progress` [Yandex Analytics Interview 2021](notebooks/tasks/Анализ%20логов%20продуктового%20магазина.ipynb)
  
