@@ -59,5 +59,5 @@
  ## Решения разных задач
 - [Yandex Fast Track Analytics 2021](notebooks/tasks/Yandex%20Fast%20Track%20Analytics%202021.ipynb)
 - `State: In progress` [Yandex Analytics Interview 2021](notebooks/tasks/Анализ%20логов%20продуктового%20магазина.ipynb)
-- `State: In progress` [Avito Interview test 2021](notebooks/tasks/avito_math_test_dec21/avito_math_test_dec21.ipynb)
+- [Avito Interview test 2021](notebooks/tasks/avito_math_test_dec21/avito_math_test_dec21.ipynb)
  
